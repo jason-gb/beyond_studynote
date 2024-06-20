@@ -1,1 +1,3 @@
-"# beyond_studynote" 
+# README
+
+수업 정리를 하려고 하는 노트입니다.
